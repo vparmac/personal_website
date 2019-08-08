@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellanea | Home</title>
+    <link>/tags/miscellanea/</link>
+      <atom:link href="/tags/miscellanea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miscellanea</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Miscellanea</title>
+      <link>/tags/miscellanea/</link>
+    </image>
+    
+    <item>
+      <title>A Hierarchical-Drift Diffusion Model of the Roles of Hunger, Caloric Density and Valence in Food Selection</title>
+      <link>/publication/journal-article/36_garlasco-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/36_garlasco-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promoting Cross-Culture Research on Moral Decision-Making with Standardized, Culturally-Equivalent Dilemmas The 4CONFiDe Set</title>
+      <link>/publication/journal-article/23_cecchetto-et-al.-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/23_cecchetto-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Functional and Developmental Role of Imitation in the (A)typical Brain</title>
+      <link>/publication/journal-article/22_casartelli-_-parma-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/22_casartelli-_-parma-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial: Affective Sciences through the Chemical Senses</title>
+      <link>/publication/journal-article/18_coppin-et-al.-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/18_coppin-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commentary Olfactory Aversive Conditioning during Sleep Reduces Cigarette-Smoking Behavior</title>
+      <link>/publication/journal-article/13_cellini-_-parma-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/13_cellini-_-parma-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

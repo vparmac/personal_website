@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unconscious | </title>
+    <link>/tags/unconscious/</link>
+      <atom:link href="/tags/unconscious/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unconscious</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Unconscious</title>
+      <link>/tags/unconscious/</link>
+    </image>
+    
+    <item>
+      <title>Body Odors</title>
+      <link>/project/body-odors/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/body-odors/</guid>
+      <description>&lt;p&gt;An accumulating body of evidence shows that humans - as many other animal species - use smells from conspecifics to transfer socially-relvelant information such as familiarity, emotion. A better understanding of how the human body odors influence social cognition and behaviour can help unravel the behavioral, psycho-physiological and neural processes underlying the human social function.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

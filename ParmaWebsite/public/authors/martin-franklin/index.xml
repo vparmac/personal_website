@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Franklin | Home</title>
+    <link>/authors/martin-franklin/</link>
+      <atom:link href="/authors/martin-franklin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Franklin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Martin Franklin</title>
+      <link>/authors/martin-franklin/</link>
+    </image>
+    
+    <item>
+      <title>Profiles of Autonomic Activity in Autism Spectrum Disorder with and without Anxiety</title>
+      <link>/publication/preprint/41_parma-et-al.-2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/41_parma-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

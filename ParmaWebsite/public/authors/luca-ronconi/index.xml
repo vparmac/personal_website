@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LUca Ronconi | Home</title>
+    <link>/authors/luca-ronconi/</link>
+      <atom:link href="/authors/luca-ronconi/index.xml" rel="self" type="application/rss+xml" />
+    <description>LUca Ronconi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>LUca Ronconi</title>
+      <link>/authors/luca-ronconi/</link>
+    </image>
+    
+    <item>
+      <title>Anomalous Perception Of Biological Motion In Autism A Conceptual Review And Meta-Analysis</title>
+      <link>/publication/preprint/42_federici-et-al.-2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/42_federici-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

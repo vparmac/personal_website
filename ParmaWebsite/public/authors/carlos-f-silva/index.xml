@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos F Silva | Home</title>
+    <link>/authors/carlos-f-silva/</link>
+      <atom:link href="/authors/carlos-f-silva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlos F Silva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Carlos F Silva</title>
+      <link>/authors/carlos-f-silva/</link>
+    </image>
+    
+    <item>
+      <title>Emotional Body Odors as Context Effects on Cardiac and Subjective Responses</title>
+      <link>/publication/journal-article/29_ferreira-et-al.-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/29_ferreira-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

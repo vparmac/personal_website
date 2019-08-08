@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raffaella I. Rumiati | Home</title>
+    <link>/authors/raffaella-i.-rumiati/</link>
+      <atom:link href="/authors/raffaella-i.-rumiati/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raffaella I. Rumiati</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Raffaella I. Rumiati</title>
+      <link>/authors/raffaella-i.-rumiati/</link>
+    </image>
+    
+    <item>
+      <title>A Hierarchical-Drift Diffusion Model of the Roles of Hunger, Caloric Density and Valence in Food Selection</title>
+      <link>/publication/journal-article/36_garlasco-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/36_garlasco-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive, Olfactory, and Affective Determinants of Body Weight in Aging Individuals</title>
+      <link>/publication/journal-article/32_aiello-et-al.-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/32_aiello-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The smell of terroir! Olfactory discrimination between wines of different grape variety and different terroir</title>
+      <link>/publication/journal-article/20_foroni-et-al.-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/20_foroni-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
