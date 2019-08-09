@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Spoto | Home</title>
+    <link>/authors/andrea-spoto/</link>
+      <atom:link href="/authors/andrea-spoto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Spoto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Andrea Spoto</title>
+      <link>/authors/andrea-spoto/</link>
+    </image>
+    
+    <item>
+      <title>Sex Differences in Body Ownership in Adults With Autism Spectrum Disorder</title>
+      <link>/publication/journal-article/34_guerra-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/34_guerra-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Sync or not in Sync? Illusory Body Ownership in Autism Spectrum Disorder</title>
+      <link>/publication/journal-article/24_guerra-et-al.-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/24_guerra-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

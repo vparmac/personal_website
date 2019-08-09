@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debora Zanatto | Home</title>
+    <link>/authors/debora-zanatto/</link>
+      <atom:link href="/authors/debora-zanatto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Debora Zanatto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Debora Zanatto</title>
+      <link>/authors/debora-zanatto/</link>
+    </image>
+    
+    <item>
+      <title>Kinematics of the Reach-to-Grasp Movement in Vascular Parkinsonism a Comparison with Idiopathic Parkinson’s Disease Patients</title>
+      <link>/publication/journal-article/11_parma-et-al.-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/11_parma-et-al.-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visuo-Olfactory Integration during Action Observation and Execution of Reach-to-Grasp Movements</title>
+      <link>/publication/journal-article/9_parma-et-al.-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/9_parma-et-al.-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit Olfactory Abilities in Traumatic Brain Injured Patients</title>
+      <link>/publication/journal-article/6_parma-et-al.-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/6_parma-et-al.-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

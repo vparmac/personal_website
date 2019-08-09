@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jos Mojet | Home</title>
+    <link>/authors/jos-mojet/</link>
+      <atom:link href="/authors/jos-mojet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jos Mojet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jos Mojet</title>
+      <link>/authors/jos-mojet/</link>
+    </image>
+    
+    <item>
+      <title>Selecting Food. The Contribution of Memory, Liking, and Action</title>
+      <link>/publication/journal-article/10_parma-et-al.-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/10_parma-et-al.-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

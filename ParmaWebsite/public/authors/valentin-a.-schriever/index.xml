@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valentin A. Schriever | Home</title>
+    <link>/authors/valentin-a.-schriever/</link>
+      <atom:link href="/authors/valentin-a.-schriever/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valentin A. Schriever</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Valentin A. Schriever</title>
+      <link>/authors/valentin-a.-schriever/</link>
+    </image>
+    
+    <item>
+      <title>Development of an International Odor Identification Test for Children The Universal Sniff Test</title>
+      <link>/publication/journal-article/28_schriever-et-al.-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/28_schriever-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cross-Cultural Adaptation of the Sniffin’ Sticks Olfactory Identification Test for US children</title>
+      <link>/publication/journal-article/19_cavazzana-et-al.-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/19_cavazzana-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

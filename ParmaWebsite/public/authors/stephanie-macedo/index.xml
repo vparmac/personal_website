@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephanie Macedo | Home</title>
+    <link>/authors/stephanie-macedo/</link>
+      <atom:link href="/authors/stephanie-macedo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephanie Macedo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Stephanie Macedo</title>
+      <link>/authors/stephanie-macedo/</link>
+    </image>
+    
+    <item>
+      <title>The Effects of Emotional Visual Context on the Encoding and Retrieval of Body Odor Information</title>
+      <link>/publication/journal-article/26_parma-et-al.-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/26_parma-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

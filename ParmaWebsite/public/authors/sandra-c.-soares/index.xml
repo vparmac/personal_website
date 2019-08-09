@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandra C. Soares | Home</title>
+    <link>/authors/sandra-c.-soares/</link>
+      <atom:link href="/authors/sandra-c.-soares/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandra C. Soares</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sandra C. Soares</title>
+      <link>/authors/sandra-c.-soares/</link>
+    </image>
+    
+    <item>
+      <title>Ethnic influences on the perceptual properties of human chemosignals</title>
+      <link>/publication/journal-article/38_parma-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/38_parma-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Scent of the Other Women: Body Odor-Induced Behavioral and Physiological Effects on Face Categorizations</title>
+      <link>/publication/journal-article/39_mutic-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/39_mutic-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anxiety Body Odors as Context for Dynamic Faces: Categorization and Psychophysiological Biases</title>
+      <link>/publication/journal-article/31_rocha-et-al.-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/31_rocha-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effects of Emotional Visual Context on the Encoding and Retrieval of Body Odor Information</title>
+      <link>/publication/journal-article/26_parma-et-al.-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/26_parma-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

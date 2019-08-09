@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes | </title>
+    <link>/home/</link>
+      <atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    <description>Homes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Homes</title>
+      <link>/home/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/home/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/publications/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Discover relevant content by &lt;a href=&#34;/publication/&#34;&gt;filtering publications&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>/home/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <guid>/home/cv/</guid>
+      <description>&lt;p&gt;My CV is available in &lt;a href=&#34;cv/cv.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt; form. (Last updated: August 5th, 2019)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>/home/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/_ndex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/_ndex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

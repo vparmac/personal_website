@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annachiara Cavazzana | Home</title>
+    <link>/authors/annachiara-cavazzana/</link>
+      <atom:link href="/authors/annachiara-cavazzana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Annachiara Cavazzana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Annachiara Cavazzana</title>
+      <link>/authors/annachiara-cavazzana/</link>
+    </image>
+    
+    <item>
+      <title>The Scent of the Other Women: Body Odor-Induced Behavioral and Physiological Effects on Face Categorizations</title>
+      <link>/publication/journal-article/39_mutic-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/39_mutic-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cross-Cultural Adaptation of the Sniffin’ Sticks Olfactory Identification Test for US children</title>
+      <link>/publication/journal-article/19_cavazzana-et-al.-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/19_cavazzana-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Central processing of human body odor signals</title>
+      <link>/publication/book-chapters/ch1_parma-et-al.-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/book-chapters/ch1_parma-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Preschoolers Follow their Eyes and Older Children Follow their Noses: Visuo-Olfactory Social Affective Matching in Childhood</title>
+      <link>/publication/journal-article/17_cavazzana-et-al.-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/17_cavazzana-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

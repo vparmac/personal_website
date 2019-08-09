@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>__admin__ | </title>
+    <link>/authors/__admin__/</link>
+      <atom:link href="/authors/__admin__/index.xml" rel="self" type="application/rss+xml" />
+    <description>__admin__</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>__admin__</title>
+      <link>/authors/__admin__/</link>
+    </image>
+    
+    <item>
+      <title>Implicit Olfactory Abilities in Traumatic Brain Injured Patients</title>
+      <link>/publication/6_parma-et-al.-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/6_parma-et-al.-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
