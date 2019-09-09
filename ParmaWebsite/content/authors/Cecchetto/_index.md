@@ -3,6 +3,7 @@ authors:
 
 interests:
 - Human olfaction
+- Social behavior
 
 name: Cinzia Cecchetto
 organizations:

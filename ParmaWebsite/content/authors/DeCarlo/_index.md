@@ -3,6 +3,7 @@ authors:
 
 interests:
 - Human olfaction
+- Autism
 
 name: Sara De Carlo
 organizations:
