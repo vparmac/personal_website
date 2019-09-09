@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bettina M. Pause | Home</title>
+    <link>/authors/bettina-m.-pause/</link>
+      <atom:link href="/authors/bettina-m.-pause/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bettina M. Pause</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Bettina M. Pause</title>
+      <link>/authors/bettina-m.-pause/</link>
+    </image>
+    
+    <item>
+      <title>Editorial: Affective Sciences through the Chemical Senses</title>
+      <link>/publication/journal-article/18_coppin-et-al.-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/18_coppin-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

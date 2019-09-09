@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura Alho | Home</title>
+    <link>/authors/laura-alho/</link>
+      <atom:link href="/authors/laura-alho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura Alho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Laura Alho</title>
+      <link>/authors/laura-alho/</link>
+    </image>
+    
+    <item>
+      <title>Ethnic influences on the perceptual properties of human chemosignals</title>
+      <link>/publication/journal-article/38_parma-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/38_parma-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional Body Odors as Context Effects on Cardiac and Subjective Responses</title>
+      <link>/publication/journal-article/29_ferreira-et-al.-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/29_ferreira-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effects of Emotional Visual Context on the Encoding and Retrieval of Body Odor Information</title>
+      <link>/publication/journal-article/26_parma-et-al.-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/26_parma-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

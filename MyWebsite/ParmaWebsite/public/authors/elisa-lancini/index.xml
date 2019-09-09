@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elisa Lancini | Home</title>
+    <link>/authors/elisa-lancini/</link>
+      <atom:link href="/authors/elisa-lancini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elisa Lancini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Elisa Lancini</title>
+      <link>/authors/elisa-lancini/</link>
+    </image>
+    
+    <item>
+      <title>Body Odors (even when Masked) Make you More Emotional: Behavioral and Neural insights</title>
+      <link>/publication/journal-article/37_cecchetto-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/37_cecchetto-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women Smelling Men&#39;s Masked Body Odors Show Enhanced Harm Aversion in Moral Dilemmas</title>
+      <link>/publication/journal-article/33_cecchetto-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/33_cecchetto-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

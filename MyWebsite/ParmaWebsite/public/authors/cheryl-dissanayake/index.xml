@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheryl Dissanayake | Home</title>
+    <link>/authors/cheryl-dissanayake/</link>
+      <atom:link href="/authors/cheryl-dissanayake/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheryl Dissanayake</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Cheryl Dissanayake</title>
+      <link>/authors/cheryl-dissanayake/</link>
+    </image>
+    
+    <item>
+      <title>Heart Rate Increase Predicts Challenging Behavior Episodes in Preschoolers with Autism</title>
+      <link>/publication/journal-article/35_nuske-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/35_nuske-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

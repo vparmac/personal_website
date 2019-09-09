@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amy R. Gordon | Home</title>
+    <link>/authors/amy-r.-gordon/</link>
+      <atom:link href="/authors/amy-r.-gordon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amy R. Gordon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Amy R. Gordon</title>
+      <link>/authors/amy-r.-gordon/</link>
+    </image>
+    
+    <item>
+      <title>Central processing of human body odor signals</title>
+      <link>/publication/book-chapters/ch1_parma-et-al.-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/book-chapters/ch1_parma-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

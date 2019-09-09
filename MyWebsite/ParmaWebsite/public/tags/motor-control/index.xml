@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motor Control | </title>
+    <link>/tags/motor-control/</link>
+      <atom:link href="/tags/motor-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Motor Control</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Motor Control</title>
+      <link>/tags/motor-control/</link>
+    </image>
+    
+    <item>
+      <title>Motor Control</title>
+      <link>/project/motor-control/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/motor-control/</guid>
+      <description>&lt;p&gt;We use our hands and arms a countless amount of times everyday. Skilfully, yet effortlessly. Using the upper limbs as a model system and combining behavioural, perceptual and cognitive tasks has helped me uncover how the senses influence motor control both in healthy participants and special populations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

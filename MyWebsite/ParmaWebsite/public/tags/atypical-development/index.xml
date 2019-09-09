@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atypical development | </title>
+    <link>/tags/atypical-development/</link>
+      <atom:link href="/tags/atypical-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Atypical development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Atypical development</title>
+      <link>/tags/atypical-development/</link>
+    </image>
+    
+    <item>
+      <title>Autism Spectrum Disorder</title>
+      <link>/project/asd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/asd/</guid>
+      <description>&lt;p&gt;Social cognition - that is the perception, interpretation and response generation to the intentions and behaviors of others - is atypical in individuals with autism. Recently, the abnormalities in sensory processing have also been a central focus in ASD. Olfaction, in this case, is not very much considered. Yet, the short neural connections of the olfactory system, the dissociation with language, the welath of social information transferred through body odors and the ability to perceive smells as a byproduct of involuntary breathing, make it an interesting and promising sense to investigate in ASD.&lt;/p&gt;
+
+&lt;p&gt;Research in this area investigates the neurobiological basis of social cognition and sensory perception in individuals with Autism Spectrum Disorder using behavioral,psychophysiological and neurophysiological techniques.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

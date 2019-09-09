@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashley B. de Marchena | Home</title>
+    <link>/authors/ashley-b.-de-marchena/</link>
+      <atom:link href="/authors/ashley-b.-de-marchena/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashley B. de Marchena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ashley B. de Marchena</title>
+      <link>/authors/ashley-b.-de-marchena/</link>
+    </image>
+    
+    <item>
+      <title>Motor Signatures in Autism Spectrum Disorder: the Importance of Variability</title>
+      <link>/publication/journal-article/16_parma-_-demarchena-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/16_parma-_-demarchena-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

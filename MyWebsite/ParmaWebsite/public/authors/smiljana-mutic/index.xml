@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smiljana Mutic | Home</title>
+    <link>/authors/smiljana-mutic/</link>
+      <atom:link href="/authors/smiljana-mutic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Smiljana Mutic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Smiljana Mutic</title>
+      <link>/authors/smiljana-mutic/</link>
+    </image>
+    
+    <item>
+      <title>The Scent of the Other Women: Body Odor-Induced Behavioral and Physiological Effects on Face Categorizations</title>
+      <link>/publication/journal-article/39_mutic-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/39_mutic-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You Smell Dangerous: Communicating Fight Responses Through Human Chemosignals of Aggression</title>
+      <link>/publication/journal-article/15_mutic-et-al.-2015/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/15_mutic-et-al.-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
