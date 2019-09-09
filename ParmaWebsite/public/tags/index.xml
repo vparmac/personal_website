@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,25 +13,9 @@
     </image>
     
     <item>
-      <title>Sensory</title>
-      <link>/tags/sensory/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/sensory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social</title>
-      <link>/tags/social/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ASD</title>
       <link>/tags/asd/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/tags/asd/</guid>
       <description></description>
     </item>
@@ -39,8 +23,32 @@
     <item>
       <title>Action</title>
       <link>/tags/action/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/tags/action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical</title>
+      <link>/tags/clinical/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/clinical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensory</title>
+      <link>/tags/sensory/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/sensory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>/tags/social/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/social/</guid>
       <description></description>
     </item>
     
@@ -53,10 +61,10 @@
     </item>
     
     <item>
-      <title>Clinical</title>
-      <link>/tags/clinical/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/clinical/</guid>
+      <title>Other</title>
+      <link>/tags/other/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/other/</guid>
       <description></description>
     </item>
     

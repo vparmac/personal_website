@@ -26,6 +26,7 @@ summary:
 tags: 
 - Action
 - Sensory
+- Other
 
 title: Selecting Food. The Contribution of Memory, Liking, and Action
 url_code: ""

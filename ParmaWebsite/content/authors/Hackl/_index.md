@@ -3,6 +3,8 @@ authors:
 
 interests:
 - Human olfaction
+- Human nutrition 
+- Micronutrient malnutrition
 
 name: Laura Hackl
 organizations:
@@ -21,5 +23,5 @@ Postdoc at Cornell University, Ithaca, (NY)
 
 Master student 
 
-*Valentina is a great mentor both in professional and personal belongings. I really appreciate how she gave me the feeling that my opinion matters despite many mistakes from my end.*
+*Valentina is a great mentor both in professional and personal belongings. I really appreciate how she gave me the feeling that my opinion matters even though I had no experience in this area of research.*
 

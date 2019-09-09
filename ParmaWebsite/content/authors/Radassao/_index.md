@@ -2,24 +2,24 @@
 authors:
 
 interests:
-- Human subject testing
+- Human olfaction
+- Autism 
 
 name: Luca Radassao
 organizations:
 - name: University of Padova, Italy
-  url: "https://www.researchgate.net/profile/Luca_Radassao"
+  url: 
 
 superuser: true
 user_groups:
 - Previous students and mentees
 
 ---
-Master student at the University of Padova, Italy
+BSc in Psychology from University of Bologna, Italy
 
 *Mentorship:*
-2018, International School for Advanced Studies, Trieste, Italy
+2017, International School for Advanced Studies, Trieste, Italy
 
-Internship
+PhD Student
 
-*I am fully satisfied with my experience with V.Parma. It was an example of professional rigor and organizational skills as well as human relationships: collaboration, help and motivation.*
-
+*I am fully satisfied of my experience in the research team lead by Valentina. It was an example of professional rigor and organization along with importance of human relationships, support and motivation.*

@@ -1,10 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2019-09-09T00:00:00Z"
 external_link: ""
 image:
   caption: From the autisticook blog
   focal_point: Smart
 links:
+share: false 
 
 slides: 
 

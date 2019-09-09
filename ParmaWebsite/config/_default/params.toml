@@ -58,9 +58,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "valentina.c.parma@gmail.com"
+email = "valentina.parma@temple.edu"
 #phone = "+1 215 407 3775"
-address = "Department of Psychology, 1701 N 13th St, Philadelphia, PA 19122, USA"
+address = "Room 874, Weiss Hall, 1701 N 13th St, Philadelphia, PA 19122, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """"""

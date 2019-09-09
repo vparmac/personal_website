@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Home</title>
+    <link>/tags/other/</link>
+      <atom:link href="/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Other</title>
+      <link>/tags/other/</link>
+    </image>
+    
+    <item>
+      <title>Cognitive, Olfactory, and Affective Determinants of Body Weight in Aging Individuals</title>
+      <link>/publication/journal-article/32_aiello-et-al.-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/32_aiello-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selecting Food. The Contribution of Memory, Liking, and Action</title>
+      <link>/publication/journal-article/10_parma-et-al.-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/10_parma-et-al.-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

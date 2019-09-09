@@ -1,11 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2019-09-09T00:00:00Z"
 external_link: ""
 image:
   caption: From Shostakovich's The Nose (The Royal Opera)
   focal_point: Smart
 slides: 
-
+share: false
 
 summary: The Cinderella sense and what it can tell about how we understand and navigate the world.
 tags:
