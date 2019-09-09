@@ -7,7 +7,7 @@ interests:
 name: Sara De Carlo
 organizations:
 - name: University of Camerino, Italy
-  url: "https://www.researchgate.net/profile/Sara_De_Carlo/"
+  url: "https://www.researchgate.net/profile/Sara_De_Carlo"
 
 superuser: true
 user_groups:
