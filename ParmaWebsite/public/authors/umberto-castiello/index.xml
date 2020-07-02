@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Umberto Castiello | Home</title>
+    <title>Umberto Castiello | Valentina Parma</title>
     <link>/authors/umberto-castiello/</link>
       <atom:link href="/authors/umberto-castiello/index.xml" rel="self" type="application/rss+xml" />
     <description>Umberto Castiello</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2020</copyright><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Umberto Castiello</title>
       <link>/authors/umberto-castiello/</link>
     </image>
+    
+    <item>
+      <title>Task-irrelevant odours affect both response inhibition and response readiness in fast-paced Go/No-Go task: the case of valence</title>
+      <link>/publication/journal-article/42_albayay-et-al.-2019/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/42_albayay-et-al.-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sex Differences in Body Ownership in Adults With Autism Spectrum Disorder</title>

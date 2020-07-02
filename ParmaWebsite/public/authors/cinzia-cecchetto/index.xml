@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cinzia Cecchetto | Home</title>
+    <title>Cinzia Cecchetto | Valentina Parma</title>
     <link>/authors/cinzia-cecchetto/</link>
       <atom:link href="/authors/cinzia-cecchetto/index.xml" rel="self" type="application/rss+xml" />
     <description>Cinzia Cecchetto</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2020</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Cinzia Cecchetto</title>
       <link>/authors/cinzia-cecchetto/</link>
     </image>
+    
+    <item>
+      <title>Human body odor increases familiarity for faces during encoding‐retrieval task</title>
+      <link>/publication/journal-article/43_cecchetto-et-al.-2020/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/43_cecchetto-et-al.-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Body Odors (even when Masked) Make you More Emotional: Behavioral and Neural insights</title>

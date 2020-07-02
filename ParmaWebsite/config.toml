@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Home"
+title = "Valentina Parma"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -17,7 +17,7 @@ copyright = "&copy; Valentina Parma, {year}"
 
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-147476151-1"
+googleAnalytics = ""
 
 ############################
 ## Advanced options below ##

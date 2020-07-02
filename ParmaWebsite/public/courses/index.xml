@@ -1,16 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses | Home</title>
+    <title>Courses | Valentina Parma</title>
     <link>/courses/</link>
       <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2020</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Courses</title>
       <link>/courses/</link>
     </image>
+    
+    <item>
+      <title>Overview</title>
+      <link>/courses/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/courses/example/</guid>
+      <description>&lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
+&lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Online courses&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project or software documentation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;code&gt;courses&lt;/code&gt; folder may be renamed. For example, we can rename it to &lt;code&gt;docs&lt;/code&gt; for software/project documentation or &lt;code&gt;tutorials&lt;/code&gt; for creating an online course.&lt;/p&gt;
+&lt;h2 id=&#34;delete-tutorials&#34;&gt;Delete tutorials&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;To remove these pages, delete the &lt;code&gt;courses&lt;/code&gt; folder and see below to delete the associated menu link.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;update-site-menu&#34;&gt;Update site menu&lt;/h2&gt;
+&lt;p&gt;After renaming or deleting the &lt;code&gt;courses&lt;/code&gt; folder, you may wish to update any &lt;code&gt;[[main]]&lt;/code&gt; menu links to it by editing your menu configuration at &lt;code&gt;config/_default/menus.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;For example, if you delete this folder, you can remove the following from your menu configuration:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[[&lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;]]
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Courses&amp;#34;&lt;/span&gt;
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;url&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;courses/&amp;#34;&lt;/span&gt;
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;weight&lt;/span&gt; = &lt;span style=&#34;color:#ae81ff&#34;&gt;50&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or, if you are creating a software documentation site, you can rename the &lt;code&gt;courses&lt;/code&gt; folder to &lt;code&gt;docs&lt;/code&gt; and update the associated &lt;em&gt;Courses&lt;/em&gt; menu configuration to:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;[[&lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;]]
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Docs&amp;#34;&lt;/span&gt;
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;url&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;docs/&amp;#34;&lt;/span&gt;
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;weight&lt;/span&gt; = &lt;span style=&#34;color:#ae81ff&#34;&gt;50&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;update-the-docs-menu&#34;&gt;Update the docs menu&lt;/h2&gt;
+&lt;p&gt;If you use the &lt;em&gt;docs&lt;/em&gt; layout, note that the name of the menu in the front matter should be in the form &lt;code&gt;[menu.X]&lt;/code&gt; where &lt;code&gt;X&lt;/code&gt; is the folder name. Hence, if you rename the &lt;code&gt;courses/example/&lt;/code&gt; folder, you should also rename the menu definitions in the front matter of files within &lt;code&gt;courses/example/&lt;/code&gt; from &lt;code&gt;[menu.example]&lt;/code&gt; to &lt;code&gt;[menu.&amp;lt;NewFolderName&amp;gt;]&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Critical Thinking</title>
+      <link>/courses/psy1004/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/courses/psy1004/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Course description and goals:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;How do you evaluate the strength of a claim made in a magazine, news program, or research article? This course will provide you with basic skills and information to systematically critique claims and research in the popular press and research literature. You will be introduced to basic research concepts, such as correlation vs. causation, common biases, hypotheses, dependent/independent variables, validity, and reliability. You will apply this knowledge to evaluating a wide range of ideas and research in psychology.&lt;/p&gt;
+&lt;p&gt;Humans fall prey of biases and fallacies that interfere with their ability to draw sound conclusions about situations. This has repercussions on academic and professional life, but also on personal life. Critical thinking is a skill that facilitates the identification of these biases and fallacies and helps us succeed in school, work and life in general. By completing this course, you will learn to identify common fallacies in thought and reasoning, learn to evaluate reliable sources of evidence, distinguish science from pseudoscience, gain a basic understanding of research strategies, research design, and analysis in psychology. The learning of this skill may be challenging and sometimes uncomfortable, yet for those who engage and sit with this uncomfortable feeling (and ask for help, if needed) will result in a useful addition to their skillset.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;PSY1004.pdf&#34;&gt;&lt;strong&gt;Download&lt;/strong&gt;&lt;/a&gt; syllabus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temple University Digital Resources</title>
+      <link>/courses/tutorials/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/courses/tutorials/</guid>
+      <description>&lt;p&gt;On [&lt;strong&gt;this site&lt;/strong&gt;], you can find templates and instructions to create Temple-affiliated projects using R, a coding language.&lt;/p&gt;
+&lt;p&gt;You will find free templates for using R, a coding language that you can approach by copying and pasting information from the template and tweaking it to your needs. These templates include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;papers&lt;/li&gt;
+&lt;li&gt;slides&lt;/li&gt;
+&lt;li&gt;dissertations&lt;/li&gt;
+&lt;li&gt;posters&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topics in Psychology - Digital Skills for Career Growth</title>
+      <link>/courses/psy3620/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/courses/psy3620/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Course description and goals:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Digital applications are increasingly impacting the way we work and mastering them will help to successfully grow your career in the modern workforce. This course has two main goals. First, to provide skills to autonomously produce high-quality, technical and non-technical documents (e.g., papers, books), presentations and websites in a fast and replicable way via R and RMarkdown. R is a free, open source, powerful and highly extensible programmable environment that uses command-line scripting to create and edit specific workflows (e.g., replicate data analysis and graphs step-by-step). RMarkdown is a format for writing reproducible, dynamic reports with R. It is widely used: from college students, who want to give a professional look to their work to Airbnb, who prepares most of their reports with these methods and shares them with their business partners. Second, to learn how to find support for your digital endeavours (e.g., write a paper, create a website, speed up repeated computations, create professional-looking graphics) and keep learning to reach your goals. Class activities include discussions, hands-on experiences with R and resources at Temple, and a Presentation project.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;PSY3620.pdf&#34;&gt;&lt;strong&gt;Download&lt;/strong&gt;&lt;/a&gt; syllabus.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

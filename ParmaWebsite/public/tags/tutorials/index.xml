@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials | Valentina Parma</title>
+    <link>/tags/tutorials/</link>
+      <atom:link href="/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tutorials</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2020</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tutorials</title>
+      <link>/tags/tutorials/</link>
+    </image>
+    
+    <item>
+      <title>Temple University Digital Resources</title>
+      <link>/courses/tutorials/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/courses/tutorials/</guid>
+      <description>&lt;p&gt;On [&lt;strong&gt;this site&lt;/strong&gt;], you can find templates and instructions to create Temple-affiliated projects using R, a coding language.&lt;/p&gt;
+&lt;p&gt;You will find free templates for using R, a coding language that you can approach by copying and pasting information from the template and tweaking it to your needs. These templates include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;papers&lt;/li&gt;
+&lt;li&gt;slides&lt;/li&gt;
+&lt;li&gt;dissertations&lt;/li&gt;
+&lt;li&gt;posters&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

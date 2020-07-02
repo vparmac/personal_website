@@ -1,16 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Home</title>
+    <title>Authors | Valentina Parma</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2020</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>_Valentina Parma_</title>
+      <link>/authors/_valentina-parma_/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/_valentina-parma_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cinzia Cecchetto</title>
+      <link>/authors/cinzia-cecchetto/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/cinzia-cecchetto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepika Bagga</title>
+      <link>/authors/deepika-bagga/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/deepika-bagga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florian Ph S Fischmeister</title>
+      <link>/authors/florian-ph-s-fischmeister/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/florian-ph-s-fischmeister/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Gorkiewicz</title>
+      <link>/authors/sarah-gorkiewicz/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sarah-gorkiewicz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veronika Schöpf</title>
+      <link>/authors/veronika-schopf/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/veronika-schopf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolfgang Schuehly</title>
+      <link>/authors/wolfgang-schuehly/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/wolfgang-schuehly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Albayay</title>
+      <link>/authors/javier-albayay/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/javier-albayay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umberto Castiello</title>
+      <link>/authors/umberto-castiello/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/umberto-castiello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claudio Bascour-Sandoval</title>
+      <link>/authors/claudio-bascour-sandoval/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/claudio-bascour-sandoval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germán Gálvez-García</title>
+      <link>/authors/german-galvez-garcia/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/german-galvez-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patricia Villarroel-Gruner</title>
+      <link>/authors/patricia-villarroel-gruner/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/patricia-villarroel-gruner/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kevin Arceneaux</title>
@@ -21,23 +117,15 @@
     </item>
     
     <item>
-      <title>_Valentina Parma_</title>
-      <link>/authors/_valentina-parma_/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/_valentina-parma_/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am Research Assistant Professor in the Department of Psychology at Temple University, Philadelphia (PA). I study the ways in which unconscious cues, such as &lt;strong&gt;odors&lt;/strong&gt;, influence &lt;strong&gt;social behavior&lt;/strong&gt;. My research focuses on understanding how odors bias people’s physiological responses and behavior – across both typical and atypical development – and offers insights into how humans communicate, direct and control emotions, cognition, actions, and contact with outgroups.&lt;/p&gt;
-
-&lt;p&gt;I explore using the sense of smell as a way to promote the development of strategies to detect and treat atypical social behaviors, such as individuals with &lt;strong&gt;autism spectrum disorder&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;When I am not busy making my favorite dessert (for the curious, it&amp;rsquo;s &lt;em&gt;croquembouche&lt;/em&gt;), I consult for &lt;a href=&#34;http://www.cynexo.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;CyNexo&lt;/strong&gt;&lt;/a&gt; on the development of odor-delivery methods, and I am invested in supporting and advising peers and students. I advocate for women scientists, particularly through my work with &lt;a href=&#34;https://www.facebook.com/WomenInOlfactoryScience/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Women In Olfactory Science&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Welcome to my personal website. I am Research Assistant Professor in the Department of Psychology at Temple University, Philadelphia (PA) and the chair of the Global Consortium for Chemosensory Research or &lt;a href=&#34;https://gcchemosensr.org/&#34;&gt;&lt;strong&gt;GCCR&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In normal times, I study the ways in which unconscious cues, such as &lt;strong&gt;odors&lt;/strong&gt;, influence typical and atypical &lt;strong&gt;social and motor behavior&lt;/strong&gt; using behavioral and physiological methods across development.&lt;/p&gt;
+&lt;p&gt;Recently the COVID-19 pandemic has added a new dimension to my research in clinical olfaction. It has been an honor to work alongside hundreds of scientists, clinicians, and patient advocates in &lt;strong&gt;GCCR&lt;/strong&gt; to understand how smell, taste and chemesthesis (spicy/cooling sensations) are affected by COVID-19.&lt;/p&gt;
+&lt;p&gt;I am also invested in supporting and advising peers and students, advocating for women scientists, particularly through my work with &lt;a href=&#34;https://www.facebook.com/WomenInOlfactoryScience/&#34;&gt;&lt;strong&gt;Women In Olfactory Science&lt;/strong&gt;&lt;/a&gt; and consulting for &lt;a href=&#34;http://www.cynexo.com/&#34;&gt;&lt;strong&gt;CyNexo&lt;/strong&gt;&lt;/a&gt; on the development of odor-delivery methods.&lt;/p&gt;
+&lt;p&gt;I love to put my chemical senses skills at play in the kitchen, especially in the pâtisserie domain. Hit me up if you want my recipe for a charming &lt;em&gt;croquembouche&lt;/em&gt; or a homey and radical &lt;em&gt;abbracci&lt;/em&gt; (hugs).&lt;/p&gt;
 </description>
     </item>
     
@@ -70,14 +158,6 @@
       <link>/authors/cheryl-dissanayake/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/cheryl-dissanayake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cinzia Cecchetto</title>
-      <link>/authors/cinzia-cecchetto/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/cinzia-cecchetto/</guid>
       <description></description>
     </item>
     
@@ -170,7 +250,7 @@
     </item>
     
     <item>
-      <title>Marilena Aiello*</title>
+      <title>Marilena Aiello</title>
       <link>/authors/marilena-aiello/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/marilena-aiello/</guid>
@@ -278,14 +358,6 @@
       <link>/authors/thomas-hummel/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/thomas-hummel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Umberto Castiello</title>
-      <link>/authors/umberto-castiello/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/umberto-castiello/</guid>
       <description></description>
     </item>
     
@@ -968,9 +1040,7 @@
       <guid>/authors/albayay/</guid>
       <description>&lt;p&gt;PhD Student in Experimental Psychology at the University of Padova, Italy
 Co-Supervision with Prof. Umberto Castiello&lt;/p&gt;
-
 &lt;p&gt;Shared research topics:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Inhibition&lt;/li&gt;
 &lt;/ul&gt;
@@ -983,11 +1053,13 @@ Co-Supervision with Prof. Umberto Castiello&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/arceneaux/</guid>
       <description>&lt;p&gt;Shared research topics:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Impact of disgust on political attitudes&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Dimensional approach to political decision making&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Impact of disgust on political attitudes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dimensional approach to political decision making&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -998,31 +1070,11 @@ Co-Supervision with Prof. Umberto Castiello&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/barros/</guid>
       <description>&lt;p&gt;PhD Student in Psychology at the University of Aveiro, Portugal&lt;/p&gt;
-
 &lt;p&gt;Co-Supervision with Prof. Sandra Soares and Prof. Gün Semin&lt;/p&gt;
-
 &lt;p&gt;Shared research topics:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Emotional processing in Autism Spectrum Disorders&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/capuozzo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/capuozzo/</guid>
-      <description>&lt;p&gt;Research Collaborator, University of Naples, Italy
-Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mentorship:&lt;/em&gt;
-2016-2018, International School for Advanced Studies, Trieste, Italy&lt;/p&gt;
-
-&lt;p&gt;PhD Student&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Working with her has been a big inspiration. She is like a vulcano, always ready to use all her entusiasm. She has taught me not only how to conduct a research project, but also the importance of this job. She has always encouraged me to do my best, stimulating me to learn further. She was always available for problems, following me step by step. It was a pleasure to meet her and especially to work with a person so prepared, professional and nice. I have seen in her an important model to follow and I hope to collaborate again with her in the future. I am using the abilities learnt in the lab to collaborate with engineering department on work-related stress in Industry 4.0.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1032,31 +1084,17 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/castiello/</guid>
       <description>&lt;p&gt;Shared research topics:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Odor-guided motor control in typical and atypical populations&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Fetal kinematics&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Action intention decoding&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Odor-guided motor control in typical and atypical populations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fetal kinematics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Action intention decoding&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/cecchetto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/cecchetto/</guid>
-      <description>&lt;p&gt;Postdoc at Karl-Franzens-Universität Graz, Austria (A).&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mentorship:&lt;/em&gt;
-2014, Monell Chemical Senses Center, Philadelphia (PA)
-2015-2017, International School for Advanced Studies, Trieste, Italy&lt;/p&gt;
-
-&lt;p&gt;PhD Student&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I have started working with Valentina in 2014 as a PhD student and the collaboration was so successful that we are still working together on some projects. I highly recommend Valentina as supervisor: she is a very motivating and patient teacher that is able to transmit her love and enthusiasm for science. Among other things, I think that from Valentina I especially learned how to properly design a project with its aims and hypotheses, how to present and write down the story of a scientific study and how to organize my work in terms of deadlines.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1066,7 +1104,6 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/coppin/</guid>
       <description>&lt;p&gt;Shared research topics:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Transmission of food-relevant information&lt;/li&gt;
 &lt;/ul&gt;
@@ -1079,26 +1116,9 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/culham/</guid>
       <description>&lt;p&gt;Shared research topics:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Real world crossmodal interactions&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/de-carlo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/de-carlo/</guid>
-      <description>&lt;p&gt;PhD Student Intenational School of Advanced Studies, Pharmacology, University of Camerino, Italy&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mentorship:&lt;/em&gt;
-2016-2018, International School for Advanced Studies, Trieste, Italy&lt;/p&gt;
-
-&lt;p&gt;PhD Student&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I met Valentina when I started my post-graduate internship at the International School for Advanced Studies (Trieste, Italy) in 2016. She was my supervisor as well as my mentor for two years. She showed me how to have a reliable and accurate approach to research, helping me to develop my skills and to believe in myself. Her support and example remains with me, even after those two years of close collaboration.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1108,11 +1128,13 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/franzon/</guid>
       <description>&lt;p&gt;Shared research topics:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Olfactory language&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Encoding of sensory knowledge&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olfactory language&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Encoding of sensory knowledge&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -1124,9 +1146,7 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
       <guid>/authors/garlasco/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentorship:&lt;/em&gt;
 2015-2018, Interntional School for Advanced Studies&lt;/p&gt;
-
 &lt;p&gt;Co-supervisor: Prof. Raffaella Rumiati&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Working with Valentina is like drinking one liter of coffee per day, without its side effects. She is able to carry so much motivation and guidance to the work you are doing that, no matter what, you are going to see the end of it. And, trust me, she&amp;rsquo;s good enough that you are going to hate her for how persistent she can be with you.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
@@ -1137,13 +1157,10 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/hackl/</guid>
       <description>&lt;p&gt;Postdoc at Cornell University, Ithaca, (NY)&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Mentorship:&lt;/em&gt;
 2013, Monell Chemical Senses Center, Philadelphia (PA)&lt;/p&gt;
-
 &lt;p&gt;Master student&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Valentina is a great mentor both in professional and personal belongings. I really appreciate how she gave me the feeling that my opinion matters even though I had no experience in this area of research.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Valentina is a great mentor both in professional and personal belongings. I really appreciate how she gave me the feeling that my opinion matters despite many mistakes from my end.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1157,33 +1174,14 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/mutic/</link>
+      <link>/authors/marshall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/mutic/</guid>
-      <description>&lt;p&gt;PhD Student RWTH Aachen University, Germany&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mentorship:&lt;/em&gt;
-2015, Monell Chemical Senses Center, Philadelphia (PA)&lt;/p&gt;
-
-&lt;p&gt;PhD Student&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;During my doctoral research, Valentina supervised me in an innovative body odor communication study. Besides the many methodological and professional aspects I got to know through her, I also learnt the importance of grit and the energetic willingness to tackle obstacles. After a long and tough streak, we recently published our work and turned it into a success story.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/radassao/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/radassao/</guid>
-      <description>&lt;p&gt;BSc in Psychology from University of Bologna, Italy&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mentorship:&lt;/em&gt;
-2017, International School for Advanced Studies, Trieste, Italy&lt;/p&gt;
-
-&lt;p&gt;PhD Student&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I am fully satisfied of my experience in the research team lead by Valentina. It was an example of professional rigor and organization along with importance of human relationships, support and motivation.&lt;/em&gt;&lt;/p&gt;
+      <guid>/authors/marshall/</guid>
+      <description>&lt;p&gt;Peter J. Marshall is Professor of Psychology and Chair of the Department of Psychology at Temple. His research in the area of developmental social-cognitive neuroscience. In their most recent published studies, Dr. Marshall and his research team have focused on aspects of the connections between self and other across infancy, childhood, and into the young adult years. Topics of particular interest include the role of representations of the body in mediating self-other correspondences, and the potential of electroencephalographic (EEG) methods for advancing work in this area.&lt;/p&gt;
+&lt;p&gt;Shared research topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;?????&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1193,11 +1191,13 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/semin/</guid>
       <description>&lt;p&gt;Shared research topics:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Human-human communication of body odors&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Emotion through olfaction&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Human-human communication of body odors&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Emotion through olfaction&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -1208,7 +1208,6 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/singh/</guid>
       <description>&lt;p&gt;Shared research topics:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Body odor influence in real-life environments&lt;/li&gt;
 &lt;/ul&gt;
@@ -1221,28 +1220,14 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/south/</guid>
       <description>&lt;p&gt;Shared research topics:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Social and sensory processing ASD&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Neuroimaging in ASD&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Social and sensory processing ASD&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Neuroimaging in ASD&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/wesarg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/wesarg/</guid>
-      <description>&lt;p&gt;Master Student at University of Amsterdam, The Netherlands&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mentorship:&lt;/em&gt;
-2014, Monell Chemical Senses Center, Philadelphia (PA)&lt;/p&gt;
-
-&lt;p&gt;PhD Student&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Valentina inspires people and makes them enthusiatic about her research. What makes working with her so great is her patience, but also her way of challenging you, she is always thriving for best quality. It&amp;rsquo;s a big chance for students to learn from her!&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1311,14 +1296,6 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
     </item>
     
     <item>
-      <title>LUca Ronconi</title>
-      <link>/authors/luca-ronconi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/luca-ronconi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lisa Guy</title>
       <link>/authors/lisa-guy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1339,6 +1316,14 @@ Cognitive Psychotherapy School, Naples, Italy&lt;/p&gt;
       <link>/authors/luca-radassao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/luca-radassao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LUca Ronconi</title>
+      <link>/authors/luca-ronconi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/luca-ronconi/</guid>
       <description></description>
     </item>
     

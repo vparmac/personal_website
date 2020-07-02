@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social | Home</title>
+    <title>Social | Valentina Parma</title>
     <link>/tags/social/</link>
       <atom:link href="/tags/social/index.xml" rel="self" type="application/rss+xml" />
     <description>Social</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2019</copyright><lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2020</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Social</title>
@@ -13,42 +13,11 @@
     </image>
     
     <item>
-      <title>Autism Spectrum Disorder</title>
-      <link>/project/asd/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/asd/</guid>
-      <description>&lt;p&gt;Autism is characterized by &lt;em&gt;social difficulties&lt;/em&gt; (e.g., perceiving, interpreting and responding to the intentions and behaviors of others) and &lt;em&gt;non-social difficulties&lt;/em&gt; (e.g., sensory and motor atypicalities). Understanding the relationship between social and non-social difficulties in ASD is a major challenge for researchers: Do these difficulties equally contribute to the condition or is one a primary cause? Are these relationships present across the autism spectrum? Do they share the same pathogenesis or do different causes drive them?&lt;/p&gt;
-
-&lt;p&gt;Studying the sense of smell in individuals with Autism Spectrum Disorder (ASD) represents a promising tool to answer these questions. Indeed, smelling is a byproduct of involuntary breathing which often occurs outside of conscious awareness, making it a tool usable across the spectrum. For instance, my research demonstrates that body odors continuously transfer a wealth of social information among individuals (see &lt;a href=&#34;http://127.0.0.1:4321/project/body-odors/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Body Odors&lt;/strong&gt;&lt;/a&gt; for more details), and that odor-driven actions can positively impact social behavior &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/8_parma-et-al.-2013/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;through automatic imitation&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Additionally, investigating the development and the multisensory features of body ownership in ASD (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/24_guerra-et-al.-2017/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;my work on the numbness illusion&lt;/strong&gt;&lt;/a&gt; allows to determine how atypical self-other interactions are initiated and navigated.&lt;/p&gt;
-
-&lt;p&gt;My research in this area investigates the neurobiological basis of social cognition and sensory perception in individuals with ASD using &lt;em&gt;behavioral&lt;/em&gt;, &lt;em&gt;psychophysiological&lt;/em&gt; and &lt;em&gt;neurophysiological&lt;/em&gt; techniques.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Body Odors</title>
-      <link>/project/body-odors/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/body-odors/</guid>
-      <description>&lt;p&gt;An accumulating body of evidence shows that humans - as many other animal species - use smells from conspecifics to transfer socially-relevant information such as &lt;em&gt;familiarity&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/12_parma-et-al.-2014/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;my work on the maternal odor&lt;/strong&gt;&lt;/a&gt;), &lt;em&gt;ethnicity&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/38_parma-et-al.-2019/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;my work on ethnic odor signatures&lt;/strong&gt;&lt;/a&gt;), &lt;em&gt;emotional states&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/29_ferreira-et-al.-2018/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;my work on disgust and fear body odors&lt;/strong&gt;&lt;/a&gt;), &lt;em&gt;attitudes&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/15_mutic-et-al.-2015/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;my work on aggression&lt;/strong&gt;&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Furthermore, the effects of this type of chemosignal communication can be consequential, both in terms of &lt;em&gt;decisions&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/37_cecchetto-et-al.-2019/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;my work on how body odors shape moral choices&lt;/strong&gt;&lt;/a&gt;) and in terms of &lt;em&gt;behaviors&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/30_singh-et-al.-2018/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;my work on how the odor of anxiety affects dental professionals&lt;/strong&gt;&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;A better understanding of how human body odors influence social cognition and behavior  can help unravel the behavioral, psycho-physiological and neural processes underlying the human &lt;em&gt;social function&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Social Behavior</title>
-      <link>/project/social-behavior/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/social-behavior/</guid>
-      <description>&lt;p&gt;Sociality has a crucial adaptive value. My research uses behavioral, perceptual, psychophysiological, neurophysiological techniques as tools to uncover the functions and mechanisms of human social function.&lt;/p&gt;
-
-&lt;p&gt;Starting from perceptual illusions (see my work on the &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/34_guerra-et-al.-2019/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;numbness illusion&lt;/strong&gt;&lt;/a&gt;) and multisensory integration (see my work on the &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/17_cavazzana-et-al.-2016/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;visuo-olfactory affective matching&lt;/strong&gt;&lt;/a&gt;) to  analyzing the olfactory impact of &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/39_mutic-et-al.-2019/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;female intra-sexual competition&lt;/strong&gt;&lt;/a&gt;, spanning from &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/21_cecchetto-et-al.-2017/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;moral decisions&lt;/strong&gt;&lt;/a&gt; to the development of political attitudes &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/40_parma-arceneaux_2019/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;political attitudes&lt;/strong&gt;&lt;/a&gt; my work focuses on understanding how we process social information and regulate dyadic behavior through sensory, cognitive, affective and motor information.&lt;/p&gt;
-</description>
+      <title>Human body odor increases familiarity for faces during encoding‐retrieval task</title>
+      <link>/publication/journal-article/43_cecchetto-et-al.-2020/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/43_cecchetto-et-al.-2020/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -161,6 +130,39 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/21_cecchetto-et-al.-2017/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Autism Spectrum Disorder</title>
+      <link>/project/asd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/asd/</guid>
+      <description>&lt;p&gt;Autism is characterized by &lt;em&gt;social difficulties&lt;/em&gt; (e.g., perceiving, interpreting and responding to the intentions and behaviors of others) and &lt;em&gt;non-social difficulties&lt;/em&gt; (e.g., sensory and motor atypicalities). Understanding the relationship between social and non-social difficulties in ASD is a major challenge for researchers: Do these difficulties equally contribute to the condition or is one a primary cause? Are these relationships present across the autism spectrum? Do they share the same pathogenesis or do different causes drive them?&lt;/p&gt;
+&lt;p&gt;Studying the sense of smell in individuals with Autism Spectrum Disorder (ASD) represents a promising tool to answer these questions. Indeed, smelling is a byproduct of involuntary breathing which often occurs outside of conscious awareness, making it a tool usable across the spectrum. For instance, my research demonstrates that body odors continuously transfer a wealth of social information among individuals (see &lt;a href=&#34;http://127.0.0.1:4321/project/body-odors/&#34;&gt;&lt;strong&gt;Body Odors&lt;/strong&gt;&lt;/a&gt; for more details), and that odor-driven actions can positively impact social behavior [&lt;strong&gt;through automatic imitation&lt;/strong&gt;] (http://127.0.0.1:4321/publication/journal-article/8_parma-et-al.-2013/).&lt;/p&gt;
+&lt;p&gt;Additionally, investigating the development and the multisensory features of body ownership in ASD (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/24_guerra-et-al.-2017/&#34;&gt;&lt;strong&gt;my work on the numbness illusion&lt;/strong&gt;&lt;/a&gt; allows to determine how atypical self-other interactions are initiated and navigated.&lt;/p&gt;
+&lt;p&gt;My research in this area investigates the neurobiological basis of social cognition and sensory perception in individuals with ASD using &lt;em&gt;behavioral&lt;/em&gt;, &lt;em&gt;psychophysiological&lt;/em&gt; and &lt;em&gt;neurophysiological&lt;/em&gt; techniques.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Body Odors</title>
+      <link>/project/body-odors/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/body-odors/</guid>
+      <description>&lt;p&gt;An accumulating body of evidence shows that humans - as many other animal species - use smells from conspecifics to transfer socially-relevant information such as &lt;em&gt;familiarity&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/12_parma-et-al.-2014/&#34;&gt;&lt;strong&gt;my work on the maternal odor&lt;/strong&gt;&lt;/a&gt;), &lt;em&gt;ethnicity&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/38_parma-et-al.-2019/&#34;&gt;&lt;strong&gt;my work on ethnic odor signatures&lt;/strong&gt;&lt;/a&gt;), &lt;em&gt;emotional states&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/29_ferreira-et-al.-2018/&#34;&gt;&lt;strong&gt;my work on disgust and fear body odors&lt;/strong&gt;&lt;/a&gt;), &lt;em&gt;attitudes&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/15_mutic-et-al.-2015/&#34;&gt;&lt;strong&gt;my work on aggression&lt;/strong&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Furthermore, the effects of this type of chemosignal communication can be consequential, both in terms of &lt;em&gt;decisions&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/37_cecchetto-et-al.-2019/&#34;&gt;&lt;strong&gt;my work on how body odors shape moral choices&lt;/strong&gt;&lt;/a&gt;) and in terms of &lt;em&gt;behaviors&lt;/em&gt; (see &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/30_singh-et-al.-2018/&#34;&gt;&lt;strong&gt;my work on how the odor of anxiety affects dental professionals&lt;/strong&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;A better understanding of how human body odors influence social cognition and behavior  can help unravel the behavioral, psycho-physiological and neural processes underlying the human &lt;em&gt;social function&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social Behavior</title>
+      <link>/project/social-behavior/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/social-behavior/</guid>
+      <description>&lt;p&gt;Sociality has a crucial adaptive value. My research uses behavioral, perceptual, psychophysiological, neurophysiological techniques as tools to uncover the functions and mechanisms of human social function.&lt;/p&gt;
+&lt;p&gt;Starting from perceptual illusions (see my work on the &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/34_guerra-et-al.-2019/&#34;&gt;&lt;strong&gt;numbness illusion&lt;/strong&gt;&lt;/a&gt;) and multisensory integration (see my work on the &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/17_cavazzana-et-al.-2016/&#34;&gt;&lt;strong&gt;visuo-olfactory affective matching&lt;/strong&gt;&lt;/a&gt;) to  analyzing the olfactory impact of &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/39_mutic-et-al.-2019/&#34;&gt;&lt;strong&gt;female intra-sexual competition&lt;/strong&gt;&lt;/a&gt;, spanning from &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/21_cecchetto-et-al.-2017/&#34;&gt;&lt;strong&gt;moral decisions&lt;/strong&gt;&lt;/a&gt; to the development of political attitudes &lt;a href=&#34;http://127.0.0.1:4321/publication/journal-article/40_parma-arceneaux_2019/&#34;&gt;&lt;strong&gt;political attitudes&lt;/strong&gt;&lt;/a&gt; my work focuses on understanding how we process social information and regulate dyadic behavior through sensory, cognitive, affective and motor information.&lt;/p&gt;
+</description>
     </item>
     
     <item>

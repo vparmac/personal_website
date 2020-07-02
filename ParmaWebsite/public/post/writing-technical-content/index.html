@@ -85,25 +85,11 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.4968408a7c3cff54799e0df5831977e1.css">
+  <link rel="stylesheet" href="/css/academic.min.3dadce8383c585d5ce00617008e7faa4.css">
 
   
 
   
-  
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-147476151-1', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
   
   
 
@@ -127,9 +113,9 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
   <meta property="twitter:site" content="@Val_Parma">
   <meta property="twitter:creator" content="@Val_Parma">
   
-  <meta property="og:site_name" content="Home">
+  <meta property="og:site_name" content="Valentina Parma">
   <meta property="og:url" content="/post/writing-technical-content/">
-  <meta property="og:title" content="Writing technical content in Academic | Home">
+  <meta property="og:title" content="Writing technical content in Academic | Valentina Parma">
   <meta property="og:description" content="Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.
 On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.
@@ -151,7 +137,7 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
 
 
 
-  <title>Writing technical content in Academic | Home</title>
+  <title>Writing technical content in Academic | Valentina Parma</title>
 
 </head>
 
@@ -194,7 +180,7 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Home</a>
+      <a class="navbar-brand" href="/">Valentina Parma</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -208,6 +194,35 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
       
       
       <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#hero"><span>GCCR</span></a>
+        </li>
+
+        
         
 
         
@@ -292,6 +307,35 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
 
         <li class="nav-item">
           <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
         </li>
 
         
@@ -592,7 +636,7 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
 <div class="article-header container-fluid featured-image-wrapper mt-4 mb-4" style="max-width: 2000px; max-height: 1333px;">
   <div style="position: relative">
     <img src="/post/writing-technical-content/featured.jpg" alt="" class="featured-image">
-    <span class="article-header-caption">Image credit: <a href="https://unsplash.com/photos/OGZtQF8iC0g" target="_blank"><strong>John Moeses Bauan</strong></a></span>
+    <span class="article-header-caption">Image credit: <a href="https://unsplash.com/photos/OGZtQF8iC0g"><strong>John Moeses Bauan</strong></a></span>
   </div>
 </div>
 
@@ -612,21 +656,15 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
 <h3 id="code">Code</h3>
 
 <p>Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the <code>highlight</code> option in your <code>config/_default/params.toml</code> file.</p>
-
 <pre><code>```python
 import pandas as pd
-data = pd.read_csv(&quot;data.csv&quot;)
+data = pd.read_csv(&#34;data.csv&#34;)
 data.head()
-```
-</code></pre>
-
+```</code></pre>
 <p>renders as</p>
-
-<pre><code class="language-python">import pandas as pd
-data = pd.read_csv(&quot;data.csv&quot;)
-data.head()
-</code></pre>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> pandas <span style="color:#f92672">as</span> pd
+data <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>read_csv(<span style="color:#e6db74">&#34;data.csv&#34;</span>)
+data<span style="color:#f92672">.</span>head()</code></pre></div>
 <h3 id="math">Math</h3>
 
 <p>Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the <code>math</code> option in your <code>config/_default/params.toml</code> file and adding <code>markup: mmark</code> to your page front matter.</p>
@@ -634,13 +672,10 @@ data.head()
 <p>To render <em>inline</em> or <em>block</em> math, wrap your LaTeX math with <code>$$...$$</code>.</p>
 
 <p>Example <strong>math block</strong>:</p>
-
-<pre><code class="language-tex">$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-</code></pre>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-tex" data-lang="tex"><span style="color:#e6db74">$$</span>\gamma_{n} <span style="color:#f92672">=</span> \frac{ 
+\left | \left <span style="color:#f92672">(</span>\mathbf x_{n} <span style="color:#f92672">-</span> \mathbf x_{n<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>} \right <span style="color:#f92672">)</span>^T 
+\left <span style="color:#f92672">[</span>\nabla F <span style="color:#f92672">(</span>\mathbf x_{n}<span style="color:#f92672">)</span> <span style="color:#f92672">-</span> \nabla F <span style="color:#f92672">(</span>\mathbf x_{n<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>}<span style="color:#f92672">)</span> \right <span style="color:#f92672">]</span> \right |}
+{\left \|\nabla F<span style="color:#f92672">(</span>\mathbf{x}_{n}<span style="color:#f92672">)</span> <span style="color:#f92672">-</span> \nabla F<span style="color:#f92672">(</span>\mathbf{x}_{n<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>}<span style="color:#f92672">)</span> \right \|^<span style="color:#ae81ff">2</span>}<span style="color:#e6db74">$$</span></code></pre></div>
 <p>renders as</p>
 
 <p><span  class="math">\[\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}\]</span></p>
@@ -648,11 +683,8 @@ data.head()
 <p>Example <strong>inline math</strong> <code>$$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$</code> renders as <span  class="math">\(\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2\)</span> .</p>
 
 <p>Example <strong>multi-line math</strong> using the <code>\\</code> math linebreak:</p>
-
-<pre><code class="language-tex">$$f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\
-1-p_0^* &amp; \text {if }k=0.\end{cases}$$
-</code></pre>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-tex" data-lang="tex"><span style="color:#e6db74">$$</span>f<span style="color:#f92672">(</span>k;p_<span style="color:#ae81ff">0</span>^<span style="color:#f92672">*)</span> <span style="color:#f92672">=</span> \begin{cases} p_<span style="color:#ae81ff">0</span>^<span style="color:#f92672">*</span> &amp; \text{if }k<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>, \\
+<span style="color:#ae81ff">1</span><span style="color:#f92672">-</span>p_<span style="color:#ae81ff">0</span>^<span style="color:#f92672">*</span> &amp; \text {if }k<span style="color:#f92672">=</span><span style="color:#ae81ff">0</span>.\end{cases}<span style="color:#e6db74">$$</span></code></pre></div>
 <p>renders as</p>
 
 <p><span  class="math">\[f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\
@@ -663,27 +695,20 @@ data.head()
 <p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the <code>diagram</code> option in your <code>config/_default/params.toml</code> file or by adding <code>diagram: true</code> to your page front matter.</p>
 
 <p>An example <strong>flowchart</strong>:</p>
-
 <pre><code>```mermaid
 graph TD;
   A--&gt;B;
   A--&gt;C;
   B--&gt;D;
   C--&gt;D;
-```
-</code></pre>
-
+```</code></pre>
 <p>renders as</p>
-
-<pre><code class="language-mermaid">graph TD;
+<pre><code class="language-mermaid" data-lang="mermaid">graph TD;
   A--&gt;B;
   A--&gt;C;
   B--&gt;D;
-  C--&gt;D;
-</code></pre>
-
+  C--&gt;D;</code></pre>
 <p>An example <strong>sequence diagram</strong>:</p>
-
 <pre><code>```mermaid
 sequenceDiagram
   participant Alice
@@ -696,12 +721,9 @@ sequenceDiagram
   John--&gt;Alice: Great!
   John-&gt;Bob: How about you?
   Bob--&gt;John: Jolly good!
-```
-</code></pre>
-
+```</code></pre>
 <p>renders as</p>
-
-<pre><code class="language-mermaid">sequenceDiagram
+<pre><code class="language-mermaid" data-lang="mermaid">sequenceDiagram
   participant Alice
   participant Bob
   Alice-&gt;John: Hello John, how are you?
@@ -711,11 +733,8 @@ sequenceDiagram
   Note right of John: Rational thoughts &lt;br/&gt;prevail...
   John--&gt;Alice: Great!
   John-&gt;Bob: How about you?
-  Bob--&gt;John: Jolly good!
-</code></pre>
-
+  Bob--&gt;John: Jolly good!</code></pre>
 <p>An example <strong>Gantt diagram</strong>:</p>
-
 <pre><code>```mermaid
 gantt
   dateFormat  YYYY-MM-DD
@@ -725,30 +744,22 @@ gantt
   section Another
   Task in sec      :2014-01-12  , 12d
   another task      : 24d
-```
-</code></pre>
-
+```</code></pre>
 <p>renders as</p>
-
-<pre><code class="language-mermaid">gantt
+<pre><code class="language-mermaid" data-lang="mermaid">gantt
   dateFormat  YYYY-MM-DD
   section Section
   A task           :a1, 2014-01-01, 30d
   Another task     :after a1  , 20d
   section Another
   Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-</code></pre>
-
+  another task      : 24d</code></pre>
 <h3 id="todo-lists">Todo lists</h3>
 
 <p>You can even write your todo lists in Academic too:</p>
-
-<pre><code class="language-markdown">- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-</code></pre>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown"><span style="color:#66d9ef">- [x]</span> Write math example
+<span style="color:#66d9ef">- [x]</span> Write diagram example
+- [ ] Do something else</code></pre></div>
 <p>renders as</p>
 
 <ul>
@@ -760,13 +771,10 @@ gantt
 <h3 id="tables">Tables</h3>
 
 <p>Represent your data in tables:</p>
-
-<pre><code class="language-markdown">| First Header  | Second Header |
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown">| First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-</code></pre>
-
+| Content Cell  | Content Cell  |</code></pre></div>
 <p>renders as</p>
 
 <table>
@@ -793,10 +801,7 @@ gantt
 <h3 id="asides">Asides</h3>
 
 <p>Academic supports a Markdown extension for asides, also referred to as <em>notices</em> or <em>hints</em>. By prefixing a paragraph with <code>A&gt;</code>, it will render as an aside. You can enable this feature by adding <code>markup: mmark</code> to your page front matter, or alternatively using the <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts"><em>Alert</em> shortcode</a>.</p>
-
-<pre><code class="language-markdown">A&gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-</code></pre>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown">A&gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.</code></pre></div>
 <p>renders as</p>
 
 <aside>
@@ -1019,7 +1024,7 @@ gantt
     
     
     
-    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
+    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
 
     
 
@@ -1041,7 +1046,7 @@ gantt
   
 
   <p class="powered-by">
-    &copy; Valentina Parma, 2019 &middot; 
+    © Valentina Parma, 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

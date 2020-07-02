@@ -43,10 +43,14 @@ user_groups:
 - Visitors
 ---
 
-I am Research Assistant Professor in the Department of Psychology at Temple University, Philadelphia (PA). I study the ways in which unconscious cues, such as **odors**, influence **social behavior**. My research focuses on understanding how odors bias people’s physiological responses and behavior – across both typical and atypical development – and offers insights into how humans communicate, direct and control emotions, cognition, actions, and contact with outgroups. 
+Welcome to my personal website. I am Research Assistant Professor in the Department of Psychology at Temple University, Philadelphia (PA) and the chair of the Global Consortium for Chemosensory Research or [**GCCR**](https://gcchemosensr.org/).
 
-I explore using the sense of smell as a way to promote the development of strategies to detect and treat atypical social behaviors, such as individuals with **autism spectrum disorder**.
+In normal times, I study the ways in which unconscious cues, such as **odors**, influence typical and atypical **social and motor behavior** using behavioral and physiological methods across development.
 
-When I am not busy making my favorite dessert (for the curious, it's *croquembouche*), I consult for [**CyNexo**](http://www.cynexo.com/) on the development of odor-delivery methods, and I am invested in supporting and advising peers and students. I advocate for women scientists, particularly through my work with [**Women In Olfactory Science**](https://www.facebook.com/WomenInOlfactoryScience/).
+Recently the COVID-19 pandemic has added a new dimension to my research in clinical olfaction. It has been an honor to work alongside hundreds of scientists, clinicians, and patient advocates in **GCCR** to understand how smell, taste and chemesthesis (spicy/cooling sensations) are affected by COVID-19.
+
+I am also invested in supporting and advising peers and students, advocating for women scientists, particularly through my work with [**Women In Olfactory Science**](https://www.facebook.com/WomenInOlfactoryScience/) and consulting for [**CyNexo**](http://www.cynexo.com/) on the development of odor-delivery methods. 
+
+I love to put my chemical senses skills at play in the kitchen, especially in the pâtisserie domain. Hit me up if you want my recipe for a charming *croquembouche* or a homey and radical *abbracci* (hugs).
 
 

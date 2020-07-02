@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Germán Gálvez-García | Valentina Parma</title>
+    <link>/authors/german-galvez-garcia/</link>
+      <atom:link href="/authors/german-galvez-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Germán Gálvez-García</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Valentina Parma, 2020</copyright><lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Germán Gálvez-García</title>
+      <link>/authors/german-galvez-garcia/</link>
+    </image>
+    
+    <item>
+      <title>Psychometric properties of the Spanish version of the Edinburgh Handedness Inventory in a sample of Chilean undergraduate</title>
+      <link>/publication/journal-article/41_albayay-et-al.-2019/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/41_albayay-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

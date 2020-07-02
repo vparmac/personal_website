@@ -1,12 +1,11 @@
 ---
-date: "2019-09-09T00:00:00Z"
+date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
   caption: From freshidea / Fotolia
   focal_point: Smart
 links:
 slides: 
-share: false 
 
 
 summary: Humans communicate through body odors much more than what they think possible. 
